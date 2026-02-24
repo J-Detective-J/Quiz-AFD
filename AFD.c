@@ -50,7 +50,7 @@ void tokenizar_linea(const char *texto) {
 int main() {
     FILE *archivo = fopen("texto.txt", "r");
     if (!archivo) {
-        printf("Error: no se encontró 'input.txt'\n");
+        printf("Error: no se encontró 'texto.txt'\n");
         return 1;
     }
 
@@ -64,4 +64,5 @@ int main() {
 
     fclose(archivo);
     return 0;
+
 }

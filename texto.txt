@@ -1,0 +1,11 @@
+Holacomoestan
+Esto esun +
+O un -
++
+-
+++
+aumento
+que hubo amigos
+hola
+Como inicio en mayusculas, funciono.
+Los espacios dividen las palabras, Eso Significa Que Cada Palabra Debe Iniciar En Mayusculas
